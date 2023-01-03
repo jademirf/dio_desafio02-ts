@@ -1,6 +1,5 @@
 # Desenvolvendo o Dio Bank
 ## Interface desenvolvida como atividade do bootcamp da DIO 
-com base no projeto desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 #### Projeto desenvolvido com React
 
