@@ -6,6 +6,6 @@ describe('Login', () => {
     login()
     
     expect(spyAlert).toBeCalled()
-    expect(spyAlert).toHaveBeenCalledWith('Welcome!')
+    expect(spyAlert).toHaveBeenCalledWith('Welcome to your bank app!')
   })
 })

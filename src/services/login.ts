@@ -1,3 +1,3 @@
 export const login = (): void => {
-  window.alert('Welcome!')
+  window.alert('Welcome to your bank app!')
 }
